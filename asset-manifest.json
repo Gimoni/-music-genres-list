@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/music-.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/music-.github.io/static/js/main.9edca93c.js",
-    "static/js/787.bbb4f50d.chunk.js": "/music-.github.io/static/js/787.bbb4f50d.chunk.js",
-    "static/media/logo.svg": "/music-.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/music-.github.io/index.html",
-    "main.073c9b0a.css.map": "/music-.github.io/static/css/main.073c9b0a.css.map",
-    "main.9edca93c.js.map": "/music-.github.io/static/js/main.9edca93c.js.map",
-    "787.bbb4f50d.chunk.js.map": "/music-.github.io/static/js/787.bbb4f50d.chunk.js.map"
+    "main.css": "/music-genres.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/music-genres.github.io/static/js/main.dcb03ebe.js",
+    "static/js/787.bbb4f50d.chunk.js": "/music-genres.github.io/static/js/787.bbb4f50d.chunk.js",
+    "static/media/logo.svg": "/music-genres.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/music-genres.github.io/index.html",
+    "main.073c9b0a.css.map": "/music-genres.github.io/static/css/main.073c9b0a.css.map",
+    "main.dcb03ebe.js.map": "/music-genres.github.io/static/js/main.dcb03ebe.js.map",
+    "787.bbb4f50d.chunk.js.map": "/music-genres.github.io/static/js/787.bbb4f50d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9edca93c.js"
+    "static/js/main.dcb03ebe.js"
   ]
 }
