@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/music-genres.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/music-genres.github.io/static/js/main.dcb03ebe.js",
-    "static/js/787.bbb4f50d.chunk.js": "/music-genres.github.io/static/js/787.bbb4f50d.chunk.js",
-    "static/media/logo.svg": "/music-genres.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/music-genres.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/music-genres.github.io/static/js/main.1912bff8.chunk.js",
+    "main.js.map": "/music-genres.github.io/static/js/main.1912bff8.chunk.js.map",
+    "runtime-main.js": "/music-genres.github.io/static/js/runtime-main.41f564cb.js",
+    "runtime-main.js.map": "/music-genres.github.io/static/js/runtime-main.41f564cb.js.map",
+    "static/js/2.01646503.chunk.js": "/music-genres.github.io/static/js/2.01646503.chunk.js",
+    "static/js/2.01646503.chunk.js.map": "/music-genres.github.io/static/js/2.01646503.chunk.js.map",
+    "static/js/3.6fb418ca.chunk.js": "/music-genres.github.io/static/js/3.6fb418ca.chunk.js",
+    "static/js/3.6fb418ca.chunk.js.map": "/music-genres.github.io/static/js/3.6fb418ca.chunk.js.map",
     "index.html": "/music-genres.github.io/index.html",
-    "main.073c9b0a.css.map": "/music-genres.github.io/static/css/main.073c9b0a.css.map",
-    "main.dcb03ebe.js.map": "/music-genres.github.io/static/js/main.dcb03ebe.js.map",
-    "787.bbb4f50d.chunk.js.map": "/music-genres.github.io/static/js/787.bbb4f50d.chunk.js.map"
+    "static/css/main.a617e044.chunk.css.map": "/music-genres.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.01646503.chunk.js.LICENSE.txt": "/music-genres.github.io/static/js/2.01646503.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/music-genres.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dcb03ebe.js"
+    "static/js/runtime-main.41f564cb.js",
+    "static/js/2.01646503.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.1912bff8.chunk.js"
   ]
 }
